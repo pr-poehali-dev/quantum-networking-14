@@ -27,10 +27,10 @@ export default function Hero() {
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+          ЧЕСТНАЯ ЦЕНА
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+          Стоимость без скрытых сюрпризов. Открытый диалог, подробная смета и прайс-лист — чтобы вы решали взвешенно.
         </p>
       </div>
     </div>
